@@ -16,16 +16,16 @@ console.log(cc);
 
 //3
 let aa = 8;
-let xd = a + 1;
-let cd = a * 1;
+let xd = aa + 1;
+let cd = aa * 1;
 
 console.log(xd);
 console.log(cd);
 
 //4
-let abc = 1;
-let xxl = a + 0;
-let ccl = a * 0;
+let ay = 1;
+let yy = ay + 0;
+let cy = ay * 0;
 
-console.log(xx);
-console.log(cc);
+console.log(yy);
+console.log(cy);

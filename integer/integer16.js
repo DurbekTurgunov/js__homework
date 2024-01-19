@@ -1,17 +1,16 @@
 //1
 let a = 3.456;
-let x = Math.round((a));
 
-console.log(x);
+console.log(a.toFixed(2));
 
 //2
 let aa = 5.678;
-let xx = Math.abs((a));
+let y = Math.abs((aa));
 
-console.log(xx);
+console.log(y.toFixed(2));
 
 //3
 let ab = 7.5;
-let xl = Math.abs((a));
+let xl = Math.abs((ab));
 
 console.log(xl);

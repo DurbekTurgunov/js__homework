@@ -2,16 +2,16 @@
 let a = -8;
 let x = Math.abs((a));
 
-console.log(xx);
+console.log(x);
 
 //2
 let aa = -56;
-let xx = Math.abs((a));
+let y = Math.abs((aa));
 
-console.log(xx);
+console.log(y);
 
 //3
 let ab = -45;
-let xl = Math.abs((a));
+let c = Math.abs((ab));
 
-console.log(xl);
+console.log(c);
